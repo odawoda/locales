@@ -302,6 +302,8 @@ require_once __DIR__."/user_fields/user_yahoo.php";
 require_once __DIR__."/user_fields/user_timezone.php";
 require_once __DIR__."/user_fields/user_blacklist.php";
 
+//require_once INCLUDES.'user_fields/'."/user_fields/user_blacklist.php";
+
 // Welcome message
 $locale['setup_3650'] = "Üdvözöllek oldalunkon.";
 // Stage 6 - Forum Tags
