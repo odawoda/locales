@@ -325,7 +325,7 @@ require_once __DIR__."/user_fields/user_blacklist.php";
 $locale['setup_3650'] = "Vítejte na vašem webu";
 // Final message
 $locale['setup_1700'] = "Instalace je dokončena";
-$locale['setup_1701'] = "PHP-Fusion 9.0 je nyní připraven k použití. Klepnutím na tlačítko Dokončit přepíšete soubor config_temp.php na config.php<br/>";
+$locale['setup_1701'] = "PHP-Fusion 9 je nyní připraven k použití. Klepnutím na tlačítko Dokončit přepíšete soubor config_temp.php na config.php<br/>";
 $locale['setup_1702'] = "<strong>Poznámka: Po zadání vašeho webu byste měli z bezpečnostních důvodů smazat celou / instalační složku a chmod your config.php zpět na 0644.</strong>";
 $locale['setup_1703'] = "Děkujeme, že jste si vybrali PHP-Fusion.";
 // Default time settings

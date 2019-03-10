@@ -341,3 +341,7 @@ $locale['security_007'] = "Všetky relácie systému boli úspešne odstránené
 $locale['security_008'] = "Tokeny formulára";
 $locale['security_009'] = "Počet vydaných tokenov pre každý formulár";
 $locale['security_010'] = "Fusion GateWay";
+$locale['security_011'] = "Zaznamenávanie chýb";
+$locale['security_012'] = "Metóda zaznamenávania chýb";
+$locale['security_013'] = "Súbor";
+$locale['security_014'] = "Databáza";
