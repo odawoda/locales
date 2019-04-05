@@ -243,6 +243,7 @@ $locale['UM101'] = "Nyelv váltása";
 $locale['UM098'] = "PM Beérkezett:";
 $locale['UM099'] = "PM Kimenő:";
 $locale['UM100'] = "PM Archivált:";
+$locale['UM103'] = "Fiók Beállítások";
 // Keywords and Meta
 $locale['tags'] = "Jelölések";
 // Captcha

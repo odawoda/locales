@@ -1,6 +1,7 @@
 <?php
 // Infusion Management
 $locale['400'] = "Infusion adminisztráció";
+$locale['400a'] = "Infusion";
 $locale['401'] = "Telepít";
 $locale['402'] = "Telepítve";
 $locale['403'] = "Nem lehet telepíteni ezt az infusiont";
@@ -22,6 +23,7 @@ $locale['418'] = "Státusz";
 $locale['419'] = "Beállítások";
 $locale['420'] = "Verzió";
 $locale['421'] = "Készítő";
-$locale['422'] = "További csomagok letöltése";
+$locale['422'] = "Az infúziók lehetővé teszik, hogy webhelye alapvető funkcióit bővítse, és nagyobb funkcionalitást biztosít a webhelyének. További infúziókat talál a [LINK]PHP-Fusion piacterén[/ LINK]";
 $locale['423'] = "%s Infusion Telepítve";
 $locale['424'] = "%s Infusion Törölve";
+$locale['425'] = "Leírás";
