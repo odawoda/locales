@@ -254,9 +254,10 @@ $locale['UM096'] = "Vitaj ";
 $locale['UM097'] = "Osobné menu";
 $locale['UM101'] = "Prepnúť jazyk";
 // Gauges
-$locale['UM098'] = "Doručená pošta: ";
-$locale['UM099'] = "Odoslaná pošta: ";
-$locale['UM100'] = "Archív: ";
+$locale['UM098'] = "Doručená pošta:";
+$locale['UM099'] = "Odoslaná pošta:";
+$locale['UM100'] = "Archív:";
+$locale['UM103'] = "Nastavenia účtu";
 // Keywords and Meta
 $locale['tags'] = "Tagy";
 // Captcha
